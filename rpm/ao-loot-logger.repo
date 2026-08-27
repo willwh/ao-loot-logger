@@ -1,0 +1,7 @@
+[ao-loot-logger]
+name=AO Loot Logger
+baseurl=https://willwh.github.io/ao-loot-logger/rpm/x86_64
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://willwh.github.io/ao-loot-logger/rpm/RPM-GPG-KEY-ao-loot-logger
